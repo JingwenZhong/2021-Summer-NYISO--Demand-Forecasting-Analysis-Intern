@@ -1,4 +1,4 @@
-# 2021 Summer Intern
+# 2021 Summer Intern - NYISO - Demand Forecasting and Analysis
 
 Projects focused on: BTM Solar generation forecasting and analysis
 
