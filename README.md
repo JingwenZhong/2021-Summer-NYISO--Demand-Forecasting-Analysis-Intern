@@ -1,4 +1,4 @@
-# 2021 Summer Intern - NYISO - Demand Forecasting and Analysis
+# NYISO - Demand Forecasting and Analysis Intern - 2021 Summer
 
 Projects focused on: BTM Solar generation forecasting and analysis
 
@@ -7,4 +7,10 @@ The New York Independent System Operator (NYISO), a non-profit organization, is 
 I have done my summer internship at the NYISO under System & Resource Planning department’s Demand Forecasting & Analysis team for duration of 12 weeks in summer 2021. 
 
 I was needed to carry research on Solar Generation Analysis and forecasting using python, I conducted a large amount of data cleansing, data visualization, forecasting models, and statistical analysis based on the results. 
+
+This internship strengthened my abilities in data analysis and python due to being put in situations where I would be able to use them with real world datasets and problems.  
+
+The work also piqued my interest more in the data science field. I was glad to be able to work in a professional working environment with a great supervisor and three great mentors that fostered my growth in team communication.  
+
+It was such a pleasure working with the team and NYISO!   
 
