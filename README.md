@@ -1,4 +1,4 @@
-# 2021SummerIntern
+# 2021 Summer Intern
 
 Projects focused on: BTM Solar generation forecasting and analysis
 
